@@ -55,6 +55,6 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add state.json logs || true
+          git add bookmark.json logs || true
           git commit -m "Update state & logs [auto]" || echo "No changes"
           git push
