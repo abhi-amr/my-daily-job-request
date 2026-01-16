@@ -91,29 +91,35 @@ def create_smtp_connection():
 def create_message(recipient_name, recipient_email, recipient_company):
     body = f"""Hi {recipient_name},<br><br>
 
-        <p>I am reaching out to express my interest in joining <b>{recipient_company}</b> as a <b>Java Developer / Software Engineer</b>.</p>
+        <p><b>TL;DR:</b> Backend engineer with ~4 years of experience in Java/Spring Boot, currently at Infosys, reaching out to explore relevant backend opportunities at <b>{recipient_company}</b>.</p>
 
-        <p>With around 4 years of focused experience in backend development, I am confident that my technical expertise and collaborative approach can contribute effectively to your team’s ongoing projects and innovations.</p>
+        <details>
+        <summary style="cursor:pointer; color:#1a73e8;">Read more</summary>
 
-        <p>In my current role as a <b>Digital Specialist Engineer</b> at <b>Infosys</b>, I have designed and developed high-performing backend solutions using <b>Java, Spring Boot, Neo4j, Elasticsearch, Kafka, Python, .NET Core and Node.js</b>. My work includes building microservices that automate cross-portal data flows, integrating large-scale content from third-party platforms like <i>LinkedIn and Coursera</i>, and implementing event-driven architectures for multi-tenant SaaS product serving clients such as <i>Siemens, FIFA, Kia </i> etc. I also implemented a <b>sentiment analysis</b> of contents in Python using a fine-tuned <i>RoBERTa model</i>, showcasing my ability to blend backend engineering with <b>AI-driven</b> insights.</p> 
+        <p>
+            I’m currently working as a <b>Digital Specialist Engineer</b> at <b>Infosys</b>, where I design and build scalable backend systems using
+            <b>Java, Spring Boot, Neo4j, Elasticsearch, Kafka, Python, .NET Core, and Node.js</b>.
+        </p>
 
-        <p>Beyond technical skills, I believe my soft skills would be a great addition for <b>{recipient_company}</b>:</p>
+        <p>
+            My experience includes building microservices, automating cross-portal data flows, and developing event-driven architectures
+            for multi-tenant SaaS platforms serving global clients such as <i>Siemens, FIFA, Kia and DeutscheBahn</i>.
+        </p>
 
-        <ul>
-        <li>As a <b>proactive communicator</b>, I've collaborated with cross-functional, international teams spanning diverse tenants such as NPCI, IMF, Sitrain, DeutscheBahn etc. to deliver seamless solutions.</li>
-        <li><b>My adaptability</b> enables me to quickly embrace new technologies; when given ownership of modules outside my core stack, I rapidly upskilled and delivered with impact.</li>
-        <li>With a <b>solution-oriented mindset</b>, I streamlined onboarding processes by automating tenant setup, reducing manual effort and errors.</li>
-        <li>I take <b>end-to-end ownership</b> of every project, ensuring quality and clear communication of dependencies across stakeholders.</li>
-        </ul>
+        <p>
+            I enjoy taking end-to-end ownership of features, collaborating across distributed teams, and quickly adapting to new domains
+            and technologies when needed.
+        </p>
 
-        <p>I've attached my resume for your reference. I'd be grateful if you could review it and consider me for any suitable opportunities at <b>{recipient_company}</b>. I would love to contribute to impactful backend systems and continuous improvement initiatives.</p>
-
-        <p>Thank you for your time and consideration. I look forward to the opportunity to discuss how my experience can contribute to <b>{recipient_company}</b>’s engineering goals.</p>
+        <p>
+            If this sounds relevant, I’d be happy to connect at your convenience.
+        </p>
+        </details>
 
         <br>
         Best regards,<br>
         {SENDER_NAME}<br>
-        📞 (+91) {SENDER_PHONE}<br>
+        📞 {SENDER_PHONE}<br>
         ✉️ <a href="mailto:{SENDER_EMAIL}">{SENDER_EMAIL}</a><br>
         🔗 <a href="{LINKEDIN_URL}">LinkedIn</a> | <a href="{RESUME_LINK}">Resume</a>
 
@@ -123,11 +129,11 @@ def create_message(recipient_name, recipient_email, recipient_company):
     msg["To"] = recipient_email
     msg["Subject"] = SUBJECT
 
-    # Important headers (deliverability)
-    msg["Reply-To"] = SENDER_EMAIL
-    msg["List-Unsubscribe"] = f"<mailto:{SENDER_EMAIL}?subject=unsubscribe>"
-    msg["Precedence"] = "bulk"
-    msg["X-Mailer"] = "Python SMTP"
+    #headers (deliverability)
+    # msg["Reply-To"] = SENDER_EMAIL
+    # msg["List-Unsubscribe"] = f"<mailto:{SENDER_EMAIL}?subject=unsubscribe>"
+    # msg["Precedence"] = "bulk"
+    # msg["X-Mailer"] = "Python SMTP"
 
     msg.attach(MIMEText(body, "html"))
 
@@ -180,6 +186,7 @@ def main():
     logger(f"Resuming from row: {start_row + 1}")
 
     sent_today = 0
+    failed_today = 0
     smtp_conn = create_smtp_connection()
 
     try :
@@ -197,7 +204,7 @@ def main():
                 smtp_conn.send_message(msg)
 
                 sent_today += 1
-                logger(f"Email sent to {email} ")
+                logger(f"Email sent to {company} ")
 
                 # Update state
                 state["last_row"] = idx
@@ -212,9 +219,10 @@ def main():
                     time.sleep(BATCH_SLEEP)
 
             except Exception as e:
-                sent_today -= 1
-                logger(f"Failed for {email}: {e}")
+                failed_today += 1
+                logger(f"Failed for {company}: {e}")
 
+            logger(f"Sent today: {sent_today}, Failed today: {failed_today}")
     finally :
         smtp_conn.quit()
 
