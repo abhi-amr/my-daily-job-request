@@ -93,8 +93,8 @@ def create_message(recipient_name, recipient_email, recipient_company):
 
         <p><b>TL;DR:</b> Backend engineer with ~4 years of experience in Java/Spring Boot, currently at Infosys, reaching out to explore relevant backend opportunities at <b>{recipient_company}</b>.</p>
 
+        <br>
         <details>
-        <summary style="cursor:pointer; color:#1a73e8;">Read more</summary>
 
         <p>
             I’m currently working as a <b>Digital Specialist Engineer</b> at <b>Infosys</b>, where I design and build scalable backend systems using
