@@ -1,0 +1,60 @@
+name: Daily Cold Email Job
+
+on:
+  schedule:
+    # Runs daily at 10:00 AM IST
+    - cron: "30 4 * * *"
+  workflow_dispatch: # manual trigger button
+
+jobs:
+  send-mails:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run email script
+        env:
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          APP_PASSWORD: ${{ secrets.APP_PASSWORD }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+
+          SENDER_NAME: ${{ secrets.SENDER_NAME }}
+          SENDER_PHONE: ${{ secrets.SENDER_PHONE }}
+          SUBJECT: ${{ secrets.SUBJECT }}
+
+          LINKEDIN_URL: ${{ secrets.LINKEDIN_URL }}
+          RESUME_LINK: ${{ secrets.RESUME_LINK }}
+
+          EXCEL_FILE: ${{ secrets.EXCEL_FILE }}
+          STATE_FILE: ${{ secrets.STATE_FILE }}
+          IS_EXCEL_URL: ${{ secrets.IS_EXCEL_URL }}
+
+          BATCH_SIZE: ${{ secrets.BATCH_SIZE }}
+          BATCH_SLEEP: ${{ secrets.BATCH_SLEEP }}
+          MIN_DELAY: ${{ secrets.MIN_DELAY }}
+          MAX_DELAY: ${{ secrets.MAX_DELAY }}
+          DAILY_LIMIT: ${{ secrets.DAILY_LIMIT }}
+
+        run: |
+          python my-daily-job-request.py
+
+      - name: Commit state and logs
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add state.json logs || true
+          git commit -m "Update state & logs [auto]" || echo "No changes"
+          git push
