@@ -171,6 +171,7 @@ def read_file(file_path, is_url=False):
 
 def main():
     # Read recipients
+    print("SCRIPT STARTED....")
     df = read_file(EXCEL_FILE, IS_EXCEL_URL)
     required_cols = {"Name", "Email", "Company"}
     if not required_cols.issubset(df.columns):
@@ -189,6 +190,7 @@ def main():
     failed_today = 0
     smtp_conn = create_smtp_connection()
 
+    print("SENDING MAILS....")
     try :
         for idx in range(start_row, len(df)):
             if sent_today >= DAILY_LIMIT:
@@ -204,6 +206,7 @@ def main():
                 smtp_conn.send_message(msg)
 
                 sent_today += 1
+                print(f"Email sent to {name} at {company} ")
                 logger(f"Email sent to {company} ")
 
                 # Update state
@@ -225,7 +228,7 @@ def main():
             logger(f"Sent today: {sent_today}, Failed today: {failed_today}")
     finally :
         smtp_conn.quit()
-
+    print("SCRIPT COMPLETED....")
     logger("Run Completed Today")
 
 
