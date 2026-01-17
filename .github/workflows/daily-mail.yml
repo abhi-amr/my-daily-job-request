@@ -1,5 +1,8 @@
 name: Daily Cold Email Job
 
+permissions:
+  contents: write #REQUIRED to push commits
+
 on:
   schedule:
     # Runs daily at 10:00 AM IST
