@@ -186,14 +186,14 @@ def main():
     logger(f"Total recipients: {total}")
     logger(f"Resuming from row: {start_row + 1}")
 
-    sent_today = 0
+    tried_sending_today = 0
     failed_today = 0
     smtp_conn = create_smtp_connection()
 
     print("SENDING MAILS....")
     try :
         for idx in range(start_row, len(df)):
-            if sent_today >= DAILY_LIMIT:
+            if tried_sending_today >= DAILY_LIMIT:
                 logger("Daily Email limit reached")
                 break
             row = df.iloc[idx]
@@ -201,11 +201,13 @@ def main():
             email = str(row["Email"]).strip()
             company = str(row["Company"]).strip()
 
+            # limiting this above as failed mails causing exceptions and this is not being updated
+            tried_sending_today += 1
+
             try : 
                 msg = create_message(name, email, company)
                 smtp_conn.send_message(msg)
 
-                sent_today += 1
                 print(f"Email sent to {name} at {company} ")
                 logger(f"Email sent to {company} ")
 
@@ -217,7 +219,7 @@ def main():
                 time.sleep(random.randint(MIN_DELAY, MAX_DELAY))
 
                 # Batch control
-                if sent_today % BATCH_SIZE == 0 :
+                if tried_sending_today % BATCH_SIZE == 0 :
                     logger(f"Cooling down for {BATCH_SLEEP}s before next batch...")
                     time.sleep(BATCH_SLEEP)
 
@@ -225,7 +227,10 @@ def main():
                 failed_today += 1
                 logger(f"Failed for {company}: {e}")
 
-            logger(f"Sent today: {sent_today}, Failed today: {failed_today}")
+        logger(f"Sent today: {tried_sending_today}, Failed today: {failed_today}")
+        # For testing only - reset to row 0 after one full run
+        state["last_row"] = 69
+        save_state(state)
     finally :
         smtp_conn.quit()
     print("SCRIPT COMPLETED....")
