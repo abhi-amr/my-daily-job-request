@@ -228,9 +228,7 @@ def main():
                 logger(f"Failed for {company}: {e}")
 
         logger(f"Sent today: {tried_sending_today}, Failed today: {failed_today}")
-        # For testing only - reset to row 0 after one full run
-        state["last_row"] = 69
-        save_state(state)
+
     finally :
         smtp_conn.quit()
     print("SCRIPT COMPLETED....")
