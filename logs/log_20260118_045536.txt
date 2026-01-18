@@ -1,0 +1,21 @@
+Total recipients: 2571
+Resuming from row: 24
+Email sent to Webvio Technologies Private Limited 
+Email sent to MR Infotech 
+Email sent to Zomato 
+Cooling down for 5s before next batch...
+Email sent to BixByte Technology 
+Email sent to AIDOSOL 
+Email sent to Peoplefy 
+Cooling down for 5s before next batch...
+Email sent to Union Systems Limited 
+Email sent to EXL 
+Email sent to Actualisation 
+Cooling down for 5s before next batch...
+Email sent to Bain & Company 
+Email sent to Atidiv 
+Email sent to Facile Services Pvt Ltd 
+Cooling down for 5s before next batch...
+Daily Email limit reached
+Sent today: 12, Failed today: 0
+Run Completed Today
