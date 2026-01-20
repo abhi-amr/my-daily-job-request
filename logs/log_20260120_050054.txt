@@ -1,0 +1,21 @@
+Total recipients: 2571
+Resuming from row: 46
+Email sent to DCM Infotech Limited 
+Email sent to Global FPO 
+Email sent to MSC (MicroSave Consulting) 
+Cooling down for 5s before next batch...
+Email sent to Brainhunter Systems Ltd 
+Email sent to Rexera 
+Email sent to LoTechPro 
+Cooling down for 5s before next batch...
+Email sent to Optimum Future 
+Email sent to MetLife 
+Email sent to Algae Services 
+Cooling down for 5s before next batch...
+Email sent to eClerx 
+Email sent to Across Assist 
+Email sent to Zyago 
+Cooling down for 5s before next batch...
+Daily Email limit reached
+Sent today: 12, Failed today: 0
+Run Completed Today
