@@ -1,0 +1,21 @@
+Total recipients: 2571
+Resuming from row: 57
+Email sent to Zyago 
+Email sent to Delight HR Services Pvt Ltd 
+Email sent to Careernet 
+Cooling down for 5s before next batch...
+Email sent to Qcentro 
+Email sent to DCM Infotech Limited 
+Email sent to Peoplefy 
+Cooling down for 5s before next batch...
+Email sent to BAIN Bain & Company 
+Email sent to Glic 
+Email sent to CredenceSoft 
+Cooling down for 5s before next batch...
+Email sent to LoTechPro 
+Email sent to Optimum Future 
+Email sent to Acrossassist AcrossAsia Limited 
+Cooling down for 5s before next batch...
+Daily Email limit reached
+Sent today: 12, Failed today: 0
+Run Completed Today
