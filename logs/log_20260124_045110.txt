@@ -1,0 +1,21 @@
+Total recipients: 2571
+Resuming from row: 88
+Email sent to Vagarious Solutions Pvt Ltd 
+Email sent to Gable Linearloop 
+Email sent to Talent Hire Consulting 
+Cooling down for 5s before next batch...
+Email sent to First Calli First Call 
+Email sent to Staffing Comrade Biz Staffing Comrade Pvt Ltd 
+Email sent to Vimerseit 
+Cooling down for 5s before next batch...
+Email sent to Deltacubes 
+Email sent to York York University 
+Email sent to Nuvama Group 
+Cooling down for 5s before next batch...
+Email sent to Viral Fission 
+Email sent to Ocrolus 
+Email sent to Successive Technologies 
+Cooling down for 5s before next batch...
+Daily Email limit reached
+Sent today: 12, Failed today: 0
+Run Completed Today
