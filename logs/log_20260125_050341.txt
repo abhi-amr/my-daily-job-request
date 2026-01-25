@@ -1,0 +1,21 @@
+Total recipients: 2571
+Resuming from row: 99
+Email sent to Successive Technologies 
+Email sent to Logisoft Technologies Inc. 
+Email sent to TBS INDIA TELEMATIC AND BIOMEDICAL SERVICES 
+Cooling down for 5s before next batch...
+Email sent to EXL Services Ltd 
+Email sent to Aquis Search 
+Email sent to Smartedge Solutions 
+Cooling down for 5s before next batch...
+Email sent to Techwaukee 
+Email sent to Minimalist 
+Email sent to GiGa-Ops Global Solutions 
+Cooling down for 5s before next batch...
+Email sent to The Strategy Collective UK 
+Email sent to Esyasoft Esyasoft Holding 
+Email sent to Growcite GrowCite Talent Management 
+Cooling down for 5s before next batch...
+Daily Email limit reached
+Sent today: 12, Failed today: 0
+Run Completed Today
