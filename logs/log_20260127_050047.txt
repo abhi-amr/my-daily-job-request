@@ -1,0 +1,21 @@
+Total recipients: 2571
+Resuming from row: 121
+Email sent to BlackBuck (Zinka Logistics Solutions Ltd) 
+Email sent to QDegrees 
+Email sent to Regenesys 
+Cooling down for 5s before next batch...
+Email sent to Zaportiv 
+Email sent to EdgeForce 
+Email sent to Brain Hunter 
+Cooling down for 5s before next batch...
+Email sent to Xceedance 
+Email sent to York University 
+Email sent to People Tech 
+Cooling down for 5s before next batch...
+Email sent to Encaptechno 
+Email sent to Techanic Infotech 
+Email sent to Vagarious Solutions Pvt Ltd 
+Cooling down for 5s before next batch...
+Daily Email limit reached
+Sent today: 12, Failed today: 0
+Run Completed Today
