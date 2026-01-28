@@ -1,0 +1,21 @@
+Total recipients: 2571
+Resuming from row: 132
+Email sent to Vagarious Solutions Pvt Ltd 
+Email sent to Antrazal Solutions Private Limited 
+Email sent to Zaprotech 
+Cooling down for 5s before next batch...
+Email sent to Innominds 
+Email sent to CRAYONSYS - CLOUD CONSULTING SERVICES 
+Email sent to SightSpectrum 
+Cooling down for 5s before next batch...
+Email sent to DecisionTree Analytics & Services 
+Email sent to Metso 
+Email sent to EXL 
+Cooling down for 5s before next batch...
+Email sent to Omega HMS 
+Email sent to Malpani Foods 
+Email sent to Conduent 
+Cooling down for 5s before next batch...
+Daily Email limit reached
+Sent today: 12, Failed today: 0
+Run Completed Today
