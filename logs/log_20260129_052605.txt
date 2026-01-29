@@ -1,0 +1,21 @@
+Total recipients: 2571
+Resuming from row: 143
+Email sent to Conduent 
+Email sent to Osfin.ai 
+Email sent to RNF Technologies 
+Cooling down for 5s before next batch...
+Email sent to OrangeMantra 
+Email sent to NETAMITY LTD 
+Email sent to InnoPark 
+Cooling down for 5s before next batch...
+Email sent to Swiggy 
+Email sent to NovoTree Minds Consulting Private Limited 
+Email sent to E Solutions Inc 
+Cooling down for 5s before next batch...
+Email sent to BlackBuck 
+Email sent to NasTech Global, Inc. 
+Email sent to Biocon 
+Cooling down for 5s before next batch...
+Daily Email limit reached
+Sent today: 12, Failed today: 0
+Run Completed Today
