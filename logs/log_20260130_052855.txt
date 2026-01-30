@@ -1,0 +1,21 @@
+Total recipients: 2571
+Resuming from row: 154
+Email sent to Biocon 
+Email sent to Viral Fission 
+Email sent to Zapbuild 
+Cooling down for 5s before next batch...
+Email sent to Antrazal Solutions Private Limited 
+Email sent to Kotibox Global Technologies 
+Email sent to Linear Loop 
+Cooling down for 5s before next batch...
+Email sent to Tryidol Technologies 
+Email sent to Nuvama Group 
+Email sent to Monyble 
+Cooling down for 5s before next batch...
+Email sent to Driffle 
+Email sent to Scientia Vascular Business 
+Email sent to TaskLance AI 
+Cooling down for 5s before next batch...
+Daily Email limit reached
+Sent today: 12, Failed today: 0
+Run Completed Today
