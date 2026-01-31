@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 165
+Email sent to TaskLance AI 
+Email sent to DELIVER gate 
+Email sent to Chiselon Technologies Private Limited 
+Cooling down for 5s before next batch...
+Email sent to Indian Institute of Technology, Delhi 
+Failed for Inclusive Minds: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d75a77b69052e-50337cc19d7sm68839571cf.35 - gsmtp')
+Failed for WorkiFicient Technologies Pvt Ltd: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d75a77b69052e-50337cc19d7sm68839571cf.35 - gsmtp')
+Failed for hansaconsult Ingenieurgesellschaft mbH: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d75a77b69052e-50337cc19d7sm68839571cf.35 - gsmtp')
+Failed for Fujitsu Research: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d75a77b69052e-50337cc19d7sm68839571cf.35 - gsmtp')
+Failed for Jaipur Global Services: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d75a77b69052e-50337cc19d7sm68839571cf.35 - gsmtp')
+Failed for IMG Global Infotech Private Limited: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d75a77b69052e-50337cc19d7sm68839571cf.35 - gsmtp')
+Failed for PTI WebTech Pvt Ltd: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d75a77b69052e-50337cc19d7sm68839571cf.35 - gsmtp')
+Failed for TalentTurbo Technologies: (550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\n5.4.5 sending limits go to\n5.4.5  https://support.google.com/a/answer/166852 d75a77b69052e-50337cc19d7sm68839571cf.35 - gsmtp')
+Daily Email limit reached
+Sent today: 12, Failed today: 8
+Run Completed Today
