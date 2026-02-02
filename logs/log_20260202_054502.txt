@@ -1,0 +1,21 @@
+Total recipients: 2571
+Resuming from row: 179
+Email sent to Nuvama Group 
+Email sent to Cloud Analogy 
+Email sent to Nagarro 
+Cooling down for 5s before next batch...
+Email sent to Procol 
+Email sent to Zomato 
+Email sent to PBPartners 
+Cooling down for 5s before next batch...
+Email sent to NDS 
+Email sent to hansaconsult Ingenieurgesellschaft mbH 
+Email sent to Ducker Carlisle 
+Cooling down for 5s before next batch...
+Email sent to DMinc 
+Email sent to TaskLance 
+Email sent to BM INFOTRADE PRIVATE LIMITED 
+Cooling down for 5s before next batch...
+Daily Email limit reached
+Sent today: 12, Failed today: 0
+Run Completed Today
