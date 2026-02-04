@@ -1,0 +1,21 @@
+Total recipients: 2571
+Resuming from row: 201
+Email sent to FLRS 
+Email sent to CSL Finance Limited 
+Email sent to GSPANN Technologies, Inc 
+Cooling down for 5s before next batch...
+Email sent to Entrans Inc. 
+Email sent to KiwiTech 
+Email sent to Anblicks 
+Cooling down for 5s before next batch...
+Email sent to OctaX PRO 
+Email sent to Malabar Group 
+Email sent to vTech Solution Inc 
+Cooling down for 5s before next batch...
+Email sent to Superteams.ai 
+Email sent to CestaSoft Solutions 
+Email sent to Xpheno 
+Cooling down for 5s before next batch...
+Daily Email limit reached
+Sent today: 12, Failed today: 0
+Run Completed Today
