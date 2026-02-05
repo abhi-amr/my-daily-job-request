@@ -1,0 +1,21 @@
+Total recipients: 2571
+Resuming from row: 212
+Email sent to Xpheno 
+Email sent to AdMedia 
+Email sent to UnboundB2B 
+Cooling down for 5s before next batch...
+Email sent to NLB Tech 
+Email sent to SolversIndia 
+Email sent to InnoByte Services 
+Cooling down for 5s before next batch...
+Email sent to UcliQ 
+Email sent to VMH GROUPS Market Research 
+Email sent to @Kenan 
+Cooling down for 5s before next batch...
+Email sent to OYO 
+Email sent to WorkIndia 
+Email sent to Lenora Systems Inc 
+Cooling down for 5s before next batch...
+Daily Email limit reached
+Sent today: 12, Failed today: 0
+Run Completed Today
