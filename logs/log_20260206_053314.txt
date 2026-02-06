@@ -1,0 +1,21 @@
+Total recipients: 2571
+Resuming from row: 223
+Email sent to Lenora Systems Inc 
+Email sent to @Marthr Solutions 
+Email sent to Turabit Services 
+Cooling down for 5s before next batch...
+Email sent to PW (PhysicsWallah) 
+Email sent to Scimitar Inc. 
+Email sent to GNITS_IT 
+Cooling down for 5s before next batch...
+Email sent to SchoolCare by Enrope Solutions 
+Email sent to AutomationEdge 
+Email sent to FÃƒÂ­or Consulting 
+Cooling down for 5s before next batch...
+Email sent to DemandNXT 
+Email sent to Cashify 
+Email sent to Cityflo 
+Cooling down for 5s before next batch...
+Daily Email limit reached
+Sent today: 12, Failed today: 0
+Run Completed Today
