@@ -1,0 +1,35 @@
+Total recipients: 2571
+Resuming from row: 1
+Email sent to FINAGG Technologies Private Limited 
+Email sent to Droom 
+Email sent to Apna Mart apna mart 
+Email sent to Peopletech 
+Email sent to PW (PhysicsWallah) 
+Email sent to VIRGIO 
+Email sent to Alkatalent.in 
+Email sent to Emergertech.com EMERGERS 
+Email sent to Tiger Analytics 
+Email sent to Prominentstaffing.in Prominent 
+Email sent to Lendingkart 
+Email sent to E-solutions E-Solutions 
+Email sent to Chiselon Technologies Private Limited 
+Email sent to HuQuo 
+Email sent to NorthITE 
+Email sent to SNS Square Consultancy Services Pvt Ltd., 
+Email sent to Nextechoasis 
+Email sent to InnoLinkTech 
+Email sent to Sixthsensesecurities 
+Email sent to Greaves Electric Mobility 
+Email sent to Xceedance 
+Email sent to Webzent Technologies 
+Email sent to COMETT GROUP 
+Cooling down for 7s before next batch...
+Email sent to Webvio Technologies Private Limited 
+Email sent to MR Infotech 
+Email sent to Zomato 
+Email sent to BixByte Technology 
+Email sent to AIDOSOL 
+Email sent to Peoplefy 
+Daily Email limit reached
+Sent today: 29, Failed today: 0
+Run Completed Today
