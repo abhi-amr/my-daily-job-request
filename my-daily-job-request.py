@@ -22,7 +22,7 @@ load_dotenv()
 EXCEL_FILE = os.getenv("EXCEL_FILE")
 RESUME_FILE = os.getenv("RESUME_FILE")
 STATE_FILE = os.getenv("STATE_FILE")
-IS_EXCEL_URL = bool(os.getenv("IS_EXCEL_URL"))
+IS_EXCEL_URL = os.getenv("IS_EXCEL_URL", "False").lower() in ("true", "1", "yes")
 
 # Sender details
 SENDER_EMAIL = os.getenv("SENDER_EMAIL")
@@ -36,6 +36,7 @@ SUBJECT = os.getenv("SUBJECT")
 # Links
 LINKEDIN_URL = os.getenv("LINKEDIN_URL")
 RESUME_LINK = os.getenv("RESUME_LINK")
+PORTFOLIO_LINK = os.getenv("PORTFOLIO_LINK")
 
 # Limits
 BATCH_SIZE = int(os.getenv("BATCH_SIZE"))
@@ -45,7 +46,7 @@ MAX_DELAY = int(os.getenv("MAX_DELAY"))
 DAILY_LIMIT = int(os.getenv("DAILY_LIMIT"))
 
 SMTP_HOST = os.getenv("SMTP_HOST")
-SMTP_PORT = os.getenv("SMTP_PORT")
+SMTP_PORT = int(os.getenv("SMTP_PORT"))
 
 LOGGER_FILE = f"log_{time.strftime('%Y%m%d_%H%M%S')}.txt"
 
@@ -76,12 +77,21 @@ def logger(message):
 # ==================================================
 
 def create_smtp_connection():
-    server = smtplib.SMTP(SMTP_HOST, SMTP_PORT, timeout=30)
-    server.ehlo()
-    server.starttls()
-    server.ehlo()
+    server = smtplib.SMTP_SSL(SMTP_HOST, SMTP_PORT, timeout=30)
+    # server.ehlo()
+    # server.starttls()
+    # server.ehlo()
     server.login(SENDER_EMAIL, APP_PASSWORD)
     return server
+
+def ensure_smtp_connection(smtp_conn):
+    """Check if connection is alive, reconnect if needed"""
+    try:
+        smtp_conn.noop()
+        return smtp_conn
+    except (smtplib.SMTPServerDisconnected, smtplib.SMTPException):
+        logger("SMTP connection lost, reconnecting...")
+        return create_smtp_connection()
 
 
 # ==================================================
@@ -112,7 +122,7 @@ def create_message(recipient_name, recipient_email, recipient_company):
         </p>
 
         <p>
-            If this sounds relevant, I’d be happy to connect at your convenience.
+            If this sounds relevant, I’d be happy to connect at your convenience. All relevant links are in my signature below.
         </p>
         </details>
 
@@ -121,7 +131,7 @@ def create_message(recipient_name, recipient_email, recipient_company):
         {SENDER_NAME}<br>
         📞 {SENDER_PHONE}<br>
         ✉️ <a href="mailto:{SENDER_EMAIL}">{SENDER_EMAIL}</a><br>
-        🔗 <a href="{LINKEDIN_URL}">LinkedIn</a> | <a href="{RESUME_LINK}">Resume</a>
+        🔗 <a href="{LINKEDIN_URL}">LinkedIn</a> | <a href="{RESUME_LINK}">Resume</a> | <a href="{PORTFOLIO_LINK}">Website</a>
 
     """
     msg = MIMEMultipart()
@@ -193,6 +203,7 @@ def main():
     print("SENDING MAILS....")
     try :
         for idx in range(start_row, len(df)):
+            # print(f"Tried : {tried_sending_today}, Failed : {failed_today}, Daily Limit : {DAILY_LIMIT}")
             if tried_sending_today >= DAILY_LIMIT:
                 logger("Daily Email limit reached")
                 break
@@ -205,6 +216,7 @@ def main():
             tried_sending_today += 1
 
             try : 
+                smtp_conn = ensure_smtp_connection(smtp_conn)
                 msg = create_message(name, email, company)
                 smtp_conn.send_message(msg)
 
@@ -230,7 +242,10 @@ def main():
         logger(f"Sent today: {tried_sending_today}, Failed today: {failed_today}")
 
     finally :
-        smtp_conn.quit()
+        try:
+            smtp_conn.quit()
+        except smtplib.SMTPServerDisconnected:
+            pass
     print("SCRIPT COMPLETED....")
     logger("Run Completed Today")
 
