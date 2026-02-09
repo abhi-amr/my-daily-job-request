@@ -1,0 +1,35 @@
+Total recipients: 2571
+Resuming from row: 29
+Email sent to Peoplefy 
+Email sent to Union Systems Limited 
+Email sent to EXL 
+Email sent to Actualisation 
+Email sent to Bain & Company 
+Email sent to Atidiv 
+Email sent to Facile Services Pvt Ltd 
+Email sent to Sixth Sense Securities 
+Email sent to Greaves Electric Mobility 
+Email sent to MetLife 
+Email sent to AMPF ampfy 
+Email sent to eClerx 
+Email sent to Conduent 
+Email sent to Ustech Solutions 
+Email sent to Nextechoasis 
+Email sent to Deloitte 
+Email sent to Amdocs 
+Email sent to DCM Infotech Limited 
+Email sent to Global FPO 
+Email sent to MSC (MicroSave Consulting) 
+Email sent to Brainhunter Systems Ltd 
+Email sent to Rexera 
+Email sent to LoTechPro 
+Cooling down for 7s before next batch...
+Email sent to Optimum Future 
+Email sent to MetLife 
+Email sent to Algae Services 
+Email sent to eClerx 
+Email sent to Across Assist 
+Email sent to Zyago 
+Daily Email limit reached
+Sent today: 29, Failed today: 0
+Run Completed Today
