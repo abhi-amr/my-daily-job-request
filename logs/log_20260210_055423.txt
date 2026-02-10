@@ -1,0 +1,97 @@
+Total recipients: 2571
+Resuming from row: 57
+Email sent to Zyago 
+Email sent to Delight HR Services Pvt Ltd 
+Email sent to Careernet 
+Email sent to Qcentro 
+Email sent to DCM Infotech Limited 
+Email sent to Peoplefy 
+Email sent to BAIN Bain & Company 
+Email sent to Glic 
+Email sent to CredenceSoft 
+Email sent to LoTechPro 
+Email sent to Optimum Future 
+Email sent to Acrossassist AcrossAsia Limited 
+Email sent to Algae Services 
+Email sent to Property Pistol Property Pistol Realty Pvt Ltd 
+Email sent to Inspecthoa 
+Email sent to DMN OUTSOURCING PVT LTD 
+Email sent to Onwardgroup Onward Technologies Limited 
+Email sent to Careernet Careernet CareerNet 
+Email sent to Rexera 
+Email sent to Vimerseit Vimerse InfoTech Inc 
+Email sent to Marico Limited 
+Email sent to EY EY 
+Failed for IQVIA: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Apexon: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for White Force Group: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Naukri.com: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Sona Vibrators: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Bicon: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Viral Fission: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for People&Tech: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for DIGITALL: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Vagarious Solutions Pvt Ltd: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Gable Linearloop: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Talent Hire Consulting: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for First Calli First Call: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Staffing Comrade Biz Staffing Comrade Pvt Ltd: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Vimerseit: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Deltacubes: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for York York University: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Nuvama Group: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Viral Fission: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Ocrolus: (554, b'5.7.1 Disabled by user from hPanel')
+SMTP connection lost, reconnecting...
+Failed for Successive Technologies: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Logisoft Technologies Inc.: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for TBS INDIA TELEMATIC AND BIOMEDICAL SERVICES: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for EXL Services Ltd: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Aquis Search: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Smartedge Solutions: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Techwaukee: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Minimalist: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for GiGa-Ops Global Solutions: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for The Strategy Collective UK: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Esyasoft Esyasoft Holding: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Growcite GrowCite Talent Management: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Reynold Infotek: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Cloudisai Technology Services: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Aquis Search: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Montbleu Technologies Pvt Ltd: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Accord Innovations: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for BrainHunters: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for SAGCLAY: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Techwaukee: (554, b'5.7.1 Disabled by user from hPanel')
+SMTP connection lost, reconnecting...
+Failed for Sigmoid Analytica.: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for FINAGG Technologies Private Limited: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for BlackBuck (Zinka Logistics Solutions Ltd): (554, b'5.7.1 Disabled by user from hPanel')
+Failed for QDegrees: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Regenesys: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Zaportiv: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for EdgeForce: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Brain Hunter: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Xceedance: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for York University: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for People Tech: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Encaptechno: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Techanic Infotech: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Vagarious Solutions Pvt Ltd: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Antrazal Solutions Private Limited: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Zaprotech: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Innominds: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for CRAYONSYS - CLOUD CONSULTING SERVICES: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for SightSpectrum: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for DecisionTree Analytics & Services: (554, b'5.7.1 Disabled by user from hPanel')
+SMTP connection lost, reconnecting...
+Failed for Metso: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for EXL: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Omega HMS: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Malpani Foods: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Conduent: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for Osfin.ai: (554, b'5.7.1 Disabled by user from hPanel')
+Failed for RNF Technologies: (554, b'5.7.1 Disabled by user from hPanel')
+Daily Email limit reached
+Sent today: 89, Failed today: 67
+Run Completed Today
