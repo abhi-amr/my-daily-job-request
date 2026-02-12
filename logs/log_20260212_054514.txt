@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 78
+Email sent to EY EY 
+Email sent to IQVIA 
+Email sent to Apexon 
+Email sent to White Force Group 
+Email sent to Naukri.com 
+Email sent to Sona Vibrators 
+Email sent to Bicon 
+Email sent to Viral Fission 
+Email sent to People&Tech 
+Email sent to DIGITALL 
+Email sent to Vagarious Solutions Pvt Ltd 
+Email sent to Gable Linearloop 
+Email sent to Talent Hire Consulting 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
