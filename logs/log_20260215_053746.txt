@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 114
+Email sent to Montbleu Technologies Pvt Ltd 
+Email sent to Accord Innovations 
+Email sent to BrainHunters 
+Email sent to SAGCLAY 
+Email sent to Techwaukee 
+Email sent to Sigmoid Analytica. 
+Email sent to FINAGG Technologies Private Limited 
+Email sent to BlackBuck (Zinka Logistics Solutions Ltd) 
+Email sent to QDegrees 
+Email sent to Regenesys 
+Email sent to Zaportiv 
+Email sent to EdgeForce 
+Email sent to Brain Hunter 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
