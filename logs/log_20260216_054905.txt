@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 126
+Email sent to Brain Hunter 
+Email sent to Xceedance 
+Email sent to York University 
+Email sent to People Tech 
+Email sent to Encaptechno 
+Email sent to Techanic Infotech 
+Email sent to Vagarious Solutions Pvt Ltd 
+Email sent to Antrazal Solutions Private Limited 
+Email sent to Zaprotech 
+Email sent to Innominds 
+Email sent to CRAYONSYS - CLOUD CONSULTING SERVICES 
+Email sent to SightSpectrum 
+Email sent to DecisionTree Analytics & Services 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
