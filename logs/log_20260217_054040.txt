@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 138
+Email sent to DecisionTree Analytics & Services 
+Email sent to Metso 
+Email sent to EXL 
+Email sent to Omega HMS 
+Email sent to Malpani Foods 
+Email sent to Conduent 
+Email sent to Osfin.ai 
+Email sent to RNF Technologies 
+Email sent to OrangeMantra 
+Email sent to NETAMITY LTD 
+Email sent to InnoPark 
+Email sent to Swiggy 
+Email sent to NovoTree Minds Consulting Private Limited 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
