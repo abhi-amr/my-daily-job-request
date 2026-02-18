@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 150
+Email sent to NovoTree Minds Consulting Private Limited 
+Email sent to E Solutions Inc 
+Email sent to BlackBuck 
+Email sent to NasTech Global, Inc. 
+Email sent to Biocon 
+Email sent to Viral Fission 
+Email sent to Zapbuild 
+Email sent to Antrazal Solutions Private Limited 
+Email sent to Kotibox Global Technologies 
+Email sent to Linear Loop 
+Email sent to Tryidol Technologies 
+Email sent to Nuvama Group 
+Email sent to Monyble 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
