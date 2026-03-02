@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 294
+Email sent to Bluepixel Technologies LLP 
+Email sent to NetZero 
+Email sent to Acelucid Technologies Private Limited 
+Email sent to triedge.in 
+Email sent to TechMonk 
+Email sent to Webkul 
+Email sent to iQGateway 
+Email sent to @Pixstone 
+Email sent to Numetry Technologies 
+Email sent to Policybazaar.com 
+Email sent to StoreFox 
+Email sent to Stanza Living 
+Email sent to Cyberinfomines Technology Pvt Ltd 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
