@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 318
+Email sent to Microsoft 
+Email sent to mentori.se 
+Email sent to NSquare Xperts 
+Email sent to SP Global, Inc. 
+Email sent to Namdev Finvest Private Limited 
+Email sent to cmexpertiseinfotech 
+Email sent to Collegedunia 
+Email sent to Zapbuild 
+Email sent to MANYA GROUP 
+Email sent to Cyberinfomines Technology Pvt Ltd 
+Email sent to InCruiter 
+Email sent to Grapes Worldwide 
+Email sent to CS Ventures Ltd. 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
