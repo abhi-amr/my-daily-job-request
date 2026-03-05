@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 330
+Email sent to CS Ventures Ltd. 
+Email sent to Antrazal Solutions Private Limited 
+Email sent to ACE 
+Email sent to @RWIT 
+Email sent to Artemis Hospitals 
+Email sent to betasys.ai 
+Email sent to Solytics Partners 
+Email sent to Policybazaar.com 
+Email sent to hSenid Biz 
+Email sent to Adya Smart Metering 
+Email sent to Fluidata Analytics 
+Email sent to Hashtechy 
+Email sent to Aegan Global 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
