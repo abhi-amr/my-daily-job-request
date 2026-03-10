@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 390
+Email sent to Plumhq 
+Email sent to CodeStax.Ai 
+Email sent to Hindustan Times 
+Email sent to RNF Technologies 
+Email sent to @IIMI Direct 
+Email sent to TimesPro 
+Email sent to Eggoz Nutrition 
+Email sent to Tech Exactly 
+Email sent to Tech Prastish Software Solutions Pvt Ltd 
+Email sent to UnboundB2B 
+Email sent to XYXX Apparels 
+Email sent to Scimitar Inc. 
+Email sent to The Franchise Insiider 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
