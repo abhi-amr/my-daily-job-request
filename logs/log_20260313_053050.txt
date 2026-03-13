@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 426
+Email sent to CogniMinds 
+Email sent to Indian Institute of Technology, Ropar 
+Email sent to PW (PhysicsWallah) 
+Email sent to Concentrix 
+Email sent to Om Logistics Limited 
+Email sent to InCruiter 
+Email sent to ProBiiz Ventures LLP 
+Email sent to HGTECH 
+Email sent to Sangath India 
+Email sent to Kotibox Global Technologies 
+Email sent to INTELYTICS 
+Email sent to Anlage Infotech (India) P Ltd 
+Email sent to Live Connections 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
