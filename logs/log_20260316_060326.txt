@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 462
+Email sent to Naapbooks Limited 
+Email sent to IntrainTech Testing Page 
+Email sent to Sinremtech 
+Email sent to Retrace Labs 
+Email sent to ERPBOSS 
+Email sent to @Execellence Technologies 
+Email sent to Alphawizz Technologies Pvt. Ltd. 
+Email sent to Proton 
+Email sent to TransCurators, The Content Factory 
+Email sent to PW (PhysicsWallah) 
+Email sent to Urban Company 
+Email sent to Atreya Innovations Private Limited 
+Email sent to CogniMinds 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
