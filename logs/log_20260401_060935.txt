@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 654
+Email sent to HDSoft Systems Private Limited 
+Email sent to Infonative Solutions 
+Email sent to Algorithus Private Limited 
+Email sent to EMB Global 
+Email sent to @MHB SRCM 
+Email sent to @Codersbaytech 
+Email sent to Synarion IT Solutions | Leading IT Solutions Company 
+Email sent to NovoTree Minds Consulting Private Limited (Open for CLIENT PARTNERSHIP) 
+Email sent to DLytica - Data Analytics and AI 
+Email sent to XenelSoft Technologies Pvt Ltd 
+Email sent to @InfoEdge 
+Email sent to @Genpect 
+Email sent to @TechTorch 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
