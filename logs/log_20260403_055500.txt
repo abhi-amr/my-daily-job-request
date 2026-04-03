@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 678
+Email sent to GIVA 
+Email sent to Cement Digital Private Limited 
+Email sent to HDFC Bank 
+Email sent to Mobillor 
+Email sent to @Codersbaytech 
+Email sent to Kazam 
+Email sent to Uniliv 
+Email sent to Uniliv 
+Email sent to CASA 
+Email sent to ASA Solutions 
+Failed for Codehop Interfusion: {'hr@codehop.in': (451, b'4.3.0 <hr@codehop.in>: Temporary lookup failure')}
+Email sent to airtel 
+Email sent to Sphinx Worldbiz Limited 
+Daily Email limit reached
+Sent today: 13, Failed today: 1
+Run Completed Today
