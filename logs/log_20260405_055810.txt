@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 690
+Email sent to Sphinx Worldbiz Limited 
+Email sent to Infometry Inc 
+Email sent to @DewalLads 
+Email sent to IDFC FIRST Bank 
+Email sent to Squash Apps 
+Email sent to Feat Systems 
+Email sent to techolution 
+Email sent to Techtorch 
+Email sent to Sysintelli Inc, 
+Email sent to Analyiz 
+Email sent to Canopus Infosystems - A CMMI Level 3 Company 
+Email sent to @ProminentStaffing 
+Email sent to @eSparkBiz Technologies Private Limited 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
