@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 714
+Email sent to Huebits 
+Email sent to Fractal 
+Email sent to smallest.ai 
+Email sent to Nagent AI 
+Email sent to @Interaslabs 
+Email sent to Teleperformance 
+Email sent to IBR InfoTech 
+Email sent to SGS Consulting 
+Email sent to Indian Institute of Technology, Delhi 
+Email sent to AVedge TechnoSolutions 
+Email sent to Neurons AI 
+Email sent to Odenkirk 
+Email sent to IIT Kharagpur 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
