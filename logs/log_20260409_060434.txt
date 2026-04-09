@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 738
+Email sent to Empyreal Infotech Private Limited 
+Email sent to Finway Capital 
+Email sent to DataGrape.ai 
+Email sent to IBR InfoTech 
+Email sent to Novel Patterns 
+Email sent to @AntierSolutions 
+Email sent to ITC Infotech 
+Email sent to RAPIDD Technologies 
+Email sent to Nykaa 
+Email sent to Zomato 
+Email sent to Ixigo 
+Email sent to Mordor Intelligence 
+Email sent to Stock Tutor 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
