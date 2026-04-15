@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 810
+Email sent to Paytm 
+Email sent to Tier Data Limited 
+Email sent to AgenticAI 
+Email sent to Innowhyte Inc 
+Email sent to Antier Solutions 
+Email sent to @ncircletech 
+Email sent to @crafto.app 
+Email sent to Zomato 
+Email sent to Nextechoasis 
+Email sent to @Peopletech 
+Email sent to @RecruitOutsource 
+Email sent to Nice Software Solutions Pvt. Ltd. 
+Email sent to @neodesiretech 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
