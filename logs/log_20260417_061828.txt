@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 834
+Email sent to Webkul 
+Email sent to Scimitar Research 
+Email sent to MediBuddy 
+Email sent to @countrydelight 
+Email sent to MotorPedia 
+Email sent to Him Technology Private Limited 
+Email sent to Master Software Solutions 
+Email sent to Webkul Software 
+Email sent to JEEVMEDIA 
+Email sent to AuraX 
+Email sent to Your company name isn't mentioned 
+Failed for Codehop Interfusion: {'hr@codehop.in': (451, b'4.3.0 <hr@codehop.in>: Temporary lookup failure')}
+Email sent to Sidvin Outotec Engineering 
+Daily Email limit reached
+Sent today: 13, Failed today: 1
+Run Completed Today
