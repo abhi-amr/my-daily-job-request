@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 846
+Email sent to Sidvin Outotec Engineering 
+Email sent to Sea Food Exports 
+Email sent to Magnify360 Solutions 
+Email sent to Jobwaaladost 
+Email sent to Quantapixel 
+Email sent to Pinco 
+Email sent to Wiseskulls 
+Email sent to Outline India 
+Email sent to Swastika 
+Email sent to Wildcraft India 
+Email sent to @DaasLabs 
+Email sent to NbliK 
+Email sent to Saal.ai - Data Science 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
