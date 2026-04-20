@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 870
+Email sent to Prodatalytics 
+Email sent to Mobilestyx 
+Email sent to RW Infotech 
+Email sent to Our Team 
+Email sent to Gartner 
+Email sent to Polynomial.AI 
+Email sent to Enrope Solutions 
+Email sent to JIEM India 
+Email sent to MARKPLUS, CORP. 
+Email sent to @VirtualAdmins 
+Email sent to Ooliga Research 
+Email sent to @Makuna Global AI 
+Email sent to Jarvis Consulting Group 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
