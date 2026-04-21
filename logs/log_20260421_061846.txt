@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 882
+Email sent to Jarvis Consulting Group 
+Email sent to Codknox 
+Email sent to @BlackPanda Consulting 
+Email sent to Futurism Technologies, INC. 
+Email sent to GSG 
+Email sent to Trisu 
+Email sent to Mihup.ai 
+Email sent to bijnis 
+Email sent to Ducima Analytics 
+Email sent to Hyperpure by Zomato 
+Email sent to Trading Firm 
+Email sent to @prointegrate 
+Email sent to HuntingCube Recruitment Solutions 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
