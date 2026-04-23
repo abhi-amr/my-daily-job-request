@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 906
+Email sent to Experis 
+Email sent to Sparkout Tech Solutions Inc. 
+Email sent to Benori 
+Email sent to Ksolves India Limited 
+Email sent to IQVIA 
+Email sent to American Express 
+Email sent to Presidium School 
+Email sent to AppBroda Tech 
+Email sent to @LogicLadder 
+Email sent to @yogabars 
+Email sent to HEPL 
+Email sent to Databridge Market Research 
+Email sent to Career Mantra 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
