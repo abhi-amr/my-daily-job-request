@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 942
+Email sent to Thing Pharma Cro 
+Email sent to MINDWRKS People Solutions & IT Services 
+Email sent to LogicLadder 
+Email sent to AppBroda Tech 
+Email sent to Presidium 
+Email sent to Talent Glider 
+Email sent to Jarvis Consulting 
+Email sent to Makunai Global 
+Email sent to Furnishka 
+Email sent to SuperKalam 
+Email sent to Core-ai 
+Email sent to ZuAi 
+Email sent to MTC-SJP Consulting 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
