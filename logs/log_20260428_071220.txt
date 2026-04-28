@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 966
+Email sent to eatnoto 
+Email sent to Marwari Catalysts 
+Email sent to Algo8 AI 
+Email sent to SabPaisa 
+Email sent to PPLIndia 
+Email sent to Quantzig 
+Email sent to Capgemini 
+Email sent to Stokhos Research Capital LLP 
+Email sent to Analytics Vidhya 
+Email sent to TechTimes 
+Email sent to Stawn Consulting 
+Email sent to upGrad 
+Email sent to Aveosoft Pvt Ltd 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
