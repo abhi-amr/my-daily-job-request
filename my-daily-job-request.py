@@ -101,37 +101,21 @@ def ensure_smtp_connection(smtp_conn):
 def create_message(recipient_name, recipient_email, recipient_company):
     body = f"""Hi {recipient_name},<br><br>
 
-        <p><b>TL;DR:</b> Backend engineer with ~4 years of experience in Java/Spring Boot, currently at Infosys, reaching out to explore relevant backend opportunities at <b>{recipient_company}</b>.</p>
+        <p>I hope you’re doing well. I’m a backend software engineer with ~4 years of experience building scalable systems using <b>Java, Spring Boot, Kafka, and Neo4j</b> at <b>Infosys</b>.</p>
 
-        <br>
-        <details>
+        <p>I’m exploring opportunities at <b>{recipient_company}</b> and would love to be considered for backend roles that align with my experience in 
+        microservices and distributed systems.</p>
 
-        <p>
-            I’m currently working as a <b>Digital Specialist Engineer</b> at <b>Infosys</b>, where I design and build scalable backend systems using
-            <b>Java, Spring Boot, Neo4j, Elasticsearch, Kafka, Python, .NET Core, and Node.js</b>.
-        </p>
+        <p>I’ve worked on high-scale platforms <b>handling millions of API requests</b> and enjoy owning features end-to-end.</p>
 
-        <p>
-            My experience includes building microservices, automating cross-portal data flows, and developing event-driven architectures
-            for multi-tenant SaaS platforms serving global clients such as <i>Siemens, FIFA, Kia and DeutscheBahn</i>.
-        </p>
-
-        <p>
-            I enjoy taking end-to-end ownership of features, collaborating across distributed teams, and quickly adapting to new domains
-            and technologies when needed.
-        </p>
-
-        <p>
-            If this sounds relevant, I’d be happy to connect at your convenience. All relevant links are in my signature below.
-        </p>
-        </details>
+        <p>Please let me know if there are <b>any relevant openings</b> — I’d be happy to share my resume.</p>
 
         <br>
         Best regards,<br>
         {SENDER_NAME}<br>
-        📞 {SENDER_PHONE}<br>
-        ✉️ <a href="mailto:{SENDER_EMAIL}">{SENDER_EMAIL}</a><br>
-        🔗 <a href="{LINKEDIN_URL}">LinkedIn</a> | <a href="{RESUME_LINK}">Resume</a> | <a href="{PORTFOLIO_LINK}">Website</a>
+        {SENDER_PHONE}<br>
+        <a href="mailto:{SENDER_EMAIL}">{SENDER_EMAIL}</a><br>
+        <a href="{LINKEDIN_URL}">LinkedIn</a> | <a href="{RESUME_LINK}">Resume</a> | <a href="{PORTFOLIO_LINK}">Portfolio</a>
 
     """
     msg = MIMEMultipart()
