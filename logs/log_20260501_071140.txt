@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1002
+Email sent to Cognizant 
+Email sent to Zyoin Group 
+Email sent to Dataintelo 
+Email sent to Techolution 
+Email sent to devtechnosys 
+Email sent to Benori 
+Email sent to Neuro Arc labs 
+Email sent to Swissmote 
+Email sent to Kessy Consultancy 
+Email sent to Unico Connect 
+Email sent to Fleetronix Systems Private Limited 
+Email sent to Codingspoon 
+Email sent to Sleepiz 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
