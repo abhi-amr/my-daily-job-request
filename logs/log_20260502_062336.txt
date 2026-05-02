@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1014
+Email sent to Sleepiz 
+Email sent to Skyleaf Global 
+Email sent to Nivvesh 
+Email sent to Miri 
+Email sent to edhitch.com 
+Email sent to ZURU Tech India 
+Email sent to Spruce Tech 
+Email sent to Heliware / SGR Labs 
+Email sent to TCS 
+Email sent to Hindustan Times 
+Email sent to OTOMEYT 
+Email sent to Urja Mobility 
+Email sent to Vedantu 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
