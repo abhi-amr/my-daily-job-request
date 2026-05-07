@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1074
+Email sent to JHS Associates LLP 
+Email sent to Pinesphere 
+Email sent to Actualisation 
+Email sent to TalentGlider 
+Email sent to Techno Derivation 
+Email sent to NetCoreCloud 
+Email sent to Novotree Minds 
+Email sent to CodeLabs Technologies Pvt. Ltd. 
+Email sent to Apptunix 
+Email sent to Mahindra 
+Email sent to LogicLadder 
+Email sent to Kindlebit Solutions Pvt. Ltd. 
+Email sent to Comet 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
