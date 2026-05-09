@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1098
+Email sent to Growth Velocity 
+Email sent to Genpact 
+Email sent to Atlantasys 
+Email sent to TalentXO 
+Email sent to Revalgo AI 
+Email sent to CARS24 
+Email sent to Adda247 
+Email sent to Cars24 
+Email sent to Saathi 
+Email sent to ForeignAdmits 
+Email sent to NetcoreCloud 
+Email sent to Qapita 
+Email sent to AcceleratorX 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
