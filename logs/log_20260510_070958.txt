@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1110
+Email sent to AcceleratorX 
+Email sent to TalentLoop 
+Email sent to Payfin 
+Email sent to Modinity 
+Email sent to Multiplier AI 
+Email sent to Interaxic Management Services Pvt Ltd 
+Email sent to IBR InfoTech 
+Email sent to EventBeep 
+Email sent to Crest 
+Email sent to Cambridge Infotech 
+Email sent to MNC 
+Email sent to Smartcoin 
+Email sent to Kaerusworld Management Solutions 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
