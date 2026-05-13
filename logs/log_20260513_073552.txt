@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1146
+Email sent to whoppl 
+Email sent to Alphasqmax 
+Email sent to MartLenz Knowledge Services 
+Email sent to CODE GAVEL 
+Email sent to Hindustan Times 
+Email sent to Redcliffe Labs 
+Email sent to Deloitte 
+Email sent to leading Insurance company 
+Email sent to arisers 
+Email sent to picoxpress 
+Email sent to Digiratina 
+Email sent to Plug Ventures 
+Email sent to TryIdolTech 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
