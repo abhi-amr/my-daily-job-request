@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1158
+Email sent to TryIdolTech 
+Email sent to Tryidol Technologies 
+Email sent to Apptunix 
+Email sent to Ero Technologies 
+Email sent to Novatechset 
+Email sent to InspiresTEK 
+Email sent to RoshAi 
+Email sent to HealthKart 
+Email sent to Codesis technologies pvt ltd 
+Email sent to Hitachi-Payments 
+Email sent to Fantv 
+Email sent to vitto 
+Email sent to Falcon Informatics 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
