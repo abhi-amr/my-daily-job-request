@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1206
+Email sent to Investment banking firm 
+Email sent to ANZ 
+Email sent to PUMA India 
+Email sent to Global Hedge Fund 
+Email sent to Novatechset 
+Email sent to AMS GROUP- Dotix 
+Email sent to CARS24 
+Email sent to Animall 
+Email sent to WebCraft IT 
+Email sent to Savesage 
+Email sent to moneeflo 
+Email sent to Kare Expert 
+Email sent to WebCraft IT 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
