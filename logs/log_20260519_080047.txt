@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1218
+Email sent to WebCraft IT 
+Email sent to Nvest Solution 
+Email sent to KAS Global Commerce Inc. 
+Email sent to Procol 
+Email sent to Fantv 
+Email sent to Taj Hotels 
+Email sent to AIHIFusion Technologies 
+Email sent to Zone Media 
+Email sent to Gmware 
+Email sent to CS Ventures 
+Email sent to HDFC Bank 
+Email sent to Swastika Investmart Limited 
+Email sent to WSFX 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
