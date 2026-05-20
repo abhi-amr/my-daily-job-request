@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1230
+Email sent to WSFX 
+Email sent to Not mentioned 
+Email sent to Neverhunt 
+Email sent to Sensei 
+Email sent to Zaucto 
+Email sent to Sparkl 
+Email sent to Minimalix 
+Email sent to Fantv 
+Email sent to Gaido AI 
+Email sent to How to Crack Interviews 
+Email sent to Nvest Solution 
+Email sent to Flipkart 
+Email sent to CS Ventures 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
