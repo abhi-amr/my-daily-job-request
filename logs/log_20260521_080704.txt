@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1242
+Email sent to CS Ventures 
+Email sent to Gmware 
+Email sent to Althi Solutions 
+Email sent to lmdconsulting 
+Email sent to Qcentro 
+Email sent to Alphasqmax 
+Email sent to Futurion Tech 
+Email sent to etechtexas 
+Email sent to MakeTimeForGood 
+Email sent to PayU 
+Email sent to FS Life (FableStreet | Pink Fort | March) 
+Email sent to The Fast Way 
+Email sent to Dexler Energy 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
