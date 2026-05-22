@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1254
+Email sent to Dexler Energy 
+Email sent to Demandify Media 
+Email sent to Metizsoft Solutions Private Limited 
+Email sent to Sprouts 
+Email sent to TWSOL 
+Email sent to Axiom Technologies 
+Email sent to Gmware 
+Email sent to VersatileCommerce 
+Email sent to Anemoi Technologies 
+Email sent to shiwansh 
+Email sent to rsithub 
+Email sent to beingLoop 
+Email sent to Reeltor 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
