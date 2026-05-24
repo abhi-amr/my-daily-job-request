@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1278
+Email sent to Sparkl 
+Email sent to Zaucto 
+Email sent to Sensei 
+Email sent to Neverhunt 
+Email sent to Zupee 
+Email sent to AVAINTERN 
+Email sent to Novatechset 
+Email sent to Genpact 
+Email sent to SquareOps 
+Email sent to PrimeSophic Technologies 
+Email sent to Fidel Softech Ltd 
+Email sent to Autviz Solutions 
+Email sent to Xsol 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
