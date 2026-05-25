@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1290
+Email sent to Xsol 
+Email sent to Temperate Technologies 
+Email sent to Not mentioned 
+Email sent to Etheradiamonds 
+Email sent to QuessCorp 
+Email sent to Not mentioned 
+Email sent to DeepMatrix 
+Email sent to i2eConsulting 
+Email sent to Goa Institute of Management (GIM) 
+Email sent to OMR Global 
+Email sent to Thermo Fisher 
+Email sent to phoenix industries 
+Email sent to Mesmerise 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
