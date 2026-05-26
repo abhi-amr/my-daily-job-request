@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1302
+Email sent to Mesmerise 
+Email sent to Cult.fit 
+Email sent to Slack 
+Email sent to Red Fibre 
+Email sent to Deepforrest.ai 
+Email sent to Workfall 
+Email sent to Hyperbots 
+Email sent to Sunstone 
+Email sent to INFSPL 
+Email sent to Tagbin 
+Email sent to iCapotech Pvt Ltd 
+Email sent to Data Center Company 
+Email sent to QuantumFunded 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
