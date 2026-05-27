@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1314
+Email sent to QuantumFunded 
+Email sent to Zepa Analytics 
+Email sent to Marwah Automobiles Private Limited 
+Email sent to Saxon Weber 
+Email sent to Etech Texas 
+Email sent to Nexdigm Private Limited 
+Email sent to Upamp Solutions 
+Email sent to Axiata Digital Labs 
+Email sent to Hansa Cequity 
+Email sent to Philomath Research 
+Email sent to Hindustan Times 
+Email sent to SS 
+Email sent to Mello 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
