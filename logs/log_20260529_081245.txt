@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1338
+Email sent to Chipper Creative 
+Email sent to Brudite Private Limited 
+Email sent to TechMahindra 
+Email sent to Accenture Operations 
+Email sent to Vertex Group of Companies 
+Email sent to CollegePur 
+Email sent to Frido 
+Email sent to Flashreach 
+Email sent to QuantumFunded 
+Email sent to Hindustan Times 
+Email sent to Amazon 
+Email sent to Pristine Market Insights 
+Email sent to AITMC Ventures Ltd. 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
