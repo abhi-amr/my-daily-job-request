@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1362
+Email sent to Big Classes 
+Email sent to VKAPS IT Solutions Pvt. Ltd. 
+Email sent to Gmware 
+Email sent to Primes Hictech 
+Email sent to MetaGeeks 
+Email sent to Ingenium 
+Email sent to Brookn 
+Email sent to Finatic Labs 
+Email sent to Finatic Labs 
+Email sent to Navi 
+Email sent to Sustain and Company 
+Email sent to Hakuhodo India 
+Email sent to innodata 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
