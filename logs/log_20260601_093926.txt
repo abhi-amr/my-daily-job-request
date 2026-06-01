@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1374
+Email sent to innodata 
+Email sent to Skillected 
+Email sent to Workie 
+Email sent to Ventures Digital India 
+Email sent to Panto 
+Email sent to tramo 
+Email sent to Kristasoft.ai 
+Email sent to qalbit 
+Email sent to Planystech 
+Email sent to Sensei 
+Email sent to datatobiz 
+Email sent to Datatobiz 
+Email sent to Techanic Infotech 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
