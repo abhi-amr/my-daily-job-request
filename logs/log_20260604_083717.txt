@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1410
+Email sent to Cloudstrats Technologies 
+Email sent to Falcon Informatics 
+Email sent to Leverage.biz 
+Email sent to Zynsera Technologies 
+Email sent to Ava Intern 
+Email sent to Big Data Trunk 
+Email sent to IIT Delhi 
+Email sent to Techolution 
+Email sent to WeDapt 
+Email sent to Propsoch 
+Email sent to AsterDM Healthcare 
+Email sent to Minimalix 
+Email sent to Genpact 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
