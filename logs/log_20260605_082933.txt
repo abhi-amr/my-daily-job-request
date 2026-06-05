@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1422
+Email sent to Genpact 
+Email sent to MartLenz Knowledge Services 
+Email sent to Excellonsoft 
+Email sent to NovatechSET 
+Email sent to Fernwood Porcelain 
+Email sent to Ollosoft Technologies 
+Email sent to destination wedding event company 
+Email sent to Job Binge 
+Email sent to Neewee 
+Email sent to Kristasoft.ai 
+Email sent to Panto 
+Email sent to PrimeSophicTech 
+Email sent to Cloudify 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
