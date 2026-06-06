@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1434
+Email sent to Cloudify 
+Email sent to WARP Drivetech 
+Email sent to zmediostech 
+Email sent to Shadow Fax 
+Email sent to Right4Paws 
+Email sent to Atreya Innovations Pvt Ltd 
+Email sent to No Broker 
+Email sent to Actualisation Group 
+Email sent to Intellgus Services Pvt. Ltd. 
+Email sent to Graviton Research Capital LLP 
+Email sent to MM9 India 
+Email sent to Annalect India 
+Email sent to mTouch Labs Pvt Ltd 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
