@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1458
+Email sent to Pranathi Software Services 
+Email sent to Pinnacle Corporation 
+Email sent to Taggd.AI 
+Email sent to Not mentioned 
+Email sent to Pranathi Software Services 
+Email sent to FalkoMeAI 
+Email sent to BML Munjal University 
+Email sent to Novatechset 
+Email sent to Craftech 360 
+Email sent to Finatic Labs 
+Email sent to Backspace Tech 
+Email sent to BML Munjal University 
+Email sent to Xlr8 Talent Search 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
