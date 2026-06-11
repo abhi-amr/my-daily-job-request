@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1494
+Email sent to Shadowfax 
+Email sent to OneDataSoftware 
+Email sent to Fernwood Porcelain 
+Email sent to Apexon 
+Email sent to Arrayscript 
+Email sent to Electrovese 
+Email sent to Instaresz Business Solutions 
+Email sent to INSTARESZ 
+Email sent to Wamo Labs 
+Email sent to Juvinsoft 
+Email sent to Coherent Market Insights 
+Email sent to N-Intelligenz 
+Email sent to CrossML 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
