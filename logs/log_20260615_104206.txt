@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1542
+Email sent to ALOIS Solutions 
+Email sent to Cariot Auto (A CARS24 Joint Venture) 
+Email sent to Centstone 
+Email sent to WebDesk Solution Private Limited 
+Email sent to Kotibox Global Technologies 
+Email sent to Reliance Industries Limited (RIL) 
+Email sent to CitiXsys 
+Email sent to Khan Chacha 
+Email sent to MartLenz Knowledge Services 
+Email sent to Xomic 
+Email sent to QualySec 
+Email sent to XYZ 
+Email sent to Kustodian 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
