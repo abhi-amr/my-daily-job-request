@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1554
+Email sent to Kustodian 
+Email sent to Boston Consulting Group (BCG) 
+Email sent to CodeByte Solutions 
+Email sent to Not mentioned 
+Email sent to Electrovese 
+Email sent to Auroim 
+Email sent to Sigmoid Analytics 
+Email sent to jll 
+Email sent to LegUp 
+Email sent to CarioAuto 
+Email sent to pbpartners (Policybazaar) 
+Email sent to NinjaTech 
+Email sent to artech 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
