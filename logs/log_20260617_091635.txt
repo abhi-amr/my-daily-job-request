@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1566
+Email sent to artech 
+Email sent to SleepyCat's Gurugram office 
+Email sent to Nugget 
+Email sent to Rang Technologies Inc 
+Email sent to Shree Maruti Integrated Logistics Services (SMILe) 
+Email sent to Auspicious Soft Pvt Ltd 
+Email sent to Auroim 
+Email sent to Auroim 
+Email sent to Decimal Point Analytics Pvt. Ltd. 
+Email sent to CrossML 
+Email sent to Greenrider Tech 
+Email sent to AEREO 
+Email sent to Elorstar Trip (Unit of Plan4Demand Services Pvt Ltd) 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
