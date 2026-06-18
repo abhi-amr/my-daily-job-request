@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1578
+Email sent to Elorstar Trip (Unit of Plan4Demand Services Pvt Ltd) 
+Email sent to ISCS Tech 
+Email sent to SelfCAD 
+Email sent to DigiMantra 
+Email sent to Electromotion E-Vidyut Vehicles Pvt Ltd 
+Email sent to Seer Dynamics - Microsoft Solution Partner 
+Email sent to DigiMantra 
+Email sent to Odoo ERP 
+Email sent to Policybazaar 
+Email sent to Softhunters Technology Pvt Ltd 
+Email sent to Agency 
+Email sent to Sravathi 
+Email sent to InstaResz 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
