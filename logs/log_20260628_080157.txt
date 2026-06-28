@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1698
+Email sent to StackBOX 
+Email sent to OnGrid 
+Email sent to ComicSense 
+Email sent to Ecomaxgo 
+Failed for AlgoProfessor: {'ceo@algoprofessor.com': (451, b'4.3.0 <ceo@algoprofessor.com>: Temporary lookup failure')}
+Email sent to MoreYeahs IT Technologies Pvt. Ltd. 
+Email sent to CashKaro 
+Email sent to ToeHo.ai 
+Email sent to Legitbytes 
+Email sent to Intellicus 
+Email sent to The Fabcode IT Solutions LLP 
+Email sent to Eclerx 
+Email sent to Arcadis IBI Group 
+Daily Email limit reached
+Sent today: 13, Failed today: 1
+Run Completed Today
