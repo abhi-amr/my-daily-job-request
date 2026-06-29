@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1710
+Email sent to Arcadis IBI Group 
+Email sent to Tyroo 
+Email sent to ImagoAI 
+Email sent to GOHASHINCLUDE 
+Email sent to ComicSense 
+Email sent to DigiMantra 
+Email sent to MoreYeahs IT Technologies Pvt. Ltd. 
+Email sent to Transtec Overseas Pvt. Ltd. 
+Email sent to B2B Flywheel 
+Email sent to Kitaboo 
+Email sent to Park+ 
+Email sent to Indian Institute of Skill Development Pvt. Ltd. 
+Email sent to Pranathi Software Services 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
