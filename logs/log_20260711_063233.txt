@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1854
+Email sent to Global Lancers 
+Email sent to InterviewVector 
+Email sent to Ample Enterprise Technologies 
+Email sent to LEADPRENEUR'S 
+Email sent to VRIO Digital 
+Email sent to Hindustan Times 
+Email sent to Scrabble 
+Email sent to ShreeTech Data Limited 
+Email sent to Petpooja 
+Email sent to Mpslimited 
+Email sent to Genpact 
+Email sent to Trademo 
+Email sent to Techolution 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
