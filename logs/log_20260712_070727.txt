@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1866
+Email sent to Techolution 
+Email sent to Healspan 
+Email sent to Research Alliied 
+Email sent to Valeo Health 
+Email sent to Whilter AI 
+Email sent to Jigsaw 
+Email sent to Fittr 
+Email sent to Webority 
+Email sent to Qurocity 
+Email sent to PeopleTech 
+Email sent to Asakta 
+Email sent to inGrade 
+Email sent to ADSGOAT 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
