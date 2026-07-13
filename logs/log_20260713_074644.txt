@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1878
+Email sent to ADSGOAT 
+Email sent to Dhruv Research 
+Email sent to C 
+Email sent to Ample Enterprise Technologies 
+Email sent to Instaresz 
+Email sent to TiGRID 
+Email sent to Not mentioned 
+Email sent to Petpooja 
+Email sent to Trademo 
+Email sent to Clear 
+Email sent to Euler Motors 
+Email sent to Future Generali 
+Email sent to Healspan 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
