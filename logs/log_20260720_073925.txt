@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 1962
+Email sent to IMA360 
+Email sent to Airtel - Tamil Nadu 
+Email sent to WheelsEye Technology 
+Email sent to EcoExpress 
+Email sent to DataVizz 
+Email sent to PBpartners 
+Email sent to CHPL Group 
+Email sent to Upperthrust 
+Email sent to Pollux 
+Email sent to Palletio Design Studio 
+Email sent to Equitysoft Technologies 
+Email sent to Kotibox Global Technologies 
+Email sent to Pascal AI Labs 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
