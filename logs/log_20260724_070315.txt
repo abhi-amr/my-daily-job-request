@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 2010
+Email sent to bzanalytics 
+Email sent to Elogicals 
+Email sent to Multigraphics Group 
+Email sent to Construction Specialties India - CS 
+Email sent to Kotibox Global Technologies 
+Email sent to AKAR Limited 
+Email sent to MachineStation 
+Email sent to YOURTYM 
+Email sent to Horizon Telecom 
+Email sent to Elucidata 
+Email sent to Nickelfox Technologies 
+Email sent to Sonam Geda & Company 
+Email sent to The Convoke 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
