@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 2022
+Email sent to The Convoke 
+Email sent to Plugseal 
+Email sent to SequelString AI Pvt Ltd 
+Email sent to Sprintonweb 
+Email sent to Polluxa 
+Email sent to Paymentz 
+Failed for Inditronics: One or more source or delivery addresses require internationalized email support, but the server does not advertise the required SMTPUTF8 capability
+Email sent to Akar 
+Email sent to Multigraphics 
+Email sent to Winborn 
+Email sent to Simplysport 
+Email sent to Company: 8CHPL Group 
+Email sent to Telstra Technologies India Pvt Ltd 
+Daily Email limit reached
+Sent today: 13, Failed today: 1
+Run Completed Today
