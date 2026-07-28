@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 2046
+Email sent to Taghasmedia 
+Email sent to Actualisation 
+Email sent to Qaid 
+Email sent to BenoriKnowledge 
+Email sent to CS Soft Solutions (India) Pvt Ltd 
+Email sent to SaturnIQ 
+Email sent to Pollux 
+Email sent to EtechTexas 
+Email sent to LivingThings 
+Email sent to Pepeleads 
+Email sent to Triedge 
+Email sent to Role: Product Intern at Fantv 
+Failed for Elint AI!: {'': (501, b'5.1.3 Bad recipient address syntax')}
+Daily Email limit reached
+Sent today: 13, Failed today: 1
+Run Completed Today
