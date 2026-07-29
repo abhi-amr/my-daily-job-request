@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 2057
+Email sent to Role: Product Intern at Fantv 
+Failed for Elint AI!: {'': (501, b'5.1.3 Bad recipient address syntax')}
+Email sent to Glasierinc 
+Email sent to GrowSolutions 
+Email sent to Multigraphics 
+Email sent to Kotibox Global 
+Failed for Sinarmasland: {'': (501, b'5.1.3 Bad recipient address syntax')}
+Failed for Sinarmasland: {'': (501, b'5.1.3 Bad recipient address syntax')}
+Email sent to Role: Business Analyst Intern 
+Email sent to VishvaVidya 
+Email sent to Aspiron 
+Email sent to Aspiron 
+Email sent to WebNinjaz 
+Daily Email limit reached
+Sent today: 13, Failed today: 3
+Run Completed Today
