@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 2069
+Email sent to WebNinjaz 
+Email sent to CoolBoots Media Pvt. Ltd. 
+Email sent to EtechTexas 
+Email sent to Role: Research Analyst & Growth Specialist at Credefine 
+Email sent to Digital True Technologies - DTrue Tech 
+Failed for LotusFlare: One or more source or delivery addresses require internationalized email support, but the server does not advertise the required SMTPUTF8 capability
+Email sent to NZiostech Solutions Pvt Ltd! 
+Email sent to Primine Software Pvt Ltd, 
+Email sent to Sunstone 
+Email sent to PlayGG 
+Email sent to India Shelter Finance Corporation Ltd 
+Email sent to DataSpeaks 
+Email sent to Wooqer 
+Daily Email limit reached
+Sent today: 13, Failed today: 1
+Run Completed Today
