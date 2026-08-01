@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 2093
+Email sent to 1. Ducima Analytics 
+Email sent to TL Regtech 
+Email sent to CoolBoots Media Pvt. Ltd. 
+Email sent to Etech Texas 
+Email sent to Kotibox Global Technologies 
+Email sent to Political Analysis Firm 
+Email sent to Klay 
+Email sent to Coherent Market Insights 
+Email sent to Kalki 
+Email sent to India Shelter Finance Corporation Ltd 
+Email sent to Datacrew.ai 
+Email sent to Primus Partners Pvt Ltd 
+Email sent to CapItAll 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
