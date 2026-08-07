@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 2165
+Email sent to Collective Artistics 
+Email sent to Nirixense Technologies 
+Email sent to We're Hiring 
+Failed for Rising Business: {'hiring@risingbusiness.in': (451, b'4.3.0 <hiring@risingbusiness.in>: Temporary lookup failure')}
+Email sent to Paytm 
+Email sent to Faclon Labs 
+Email sent to Auzmor 
+Email sent to Auzmor (Customer Success Department) 
+Email sent to Deloitte 
+Email sent to Transfinder 
+Email sent to Eagerbirds 
+Email sent to Techolution 
+Email sent to Indusface 
+Daily Email limit reached
+Sent today: 13, Failed today: 1
+Run Completed Today
