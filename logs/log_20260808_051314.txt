@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 2177
+Email sent to Indusface 
+Failed for C: {'hr@fresher.org': (451, b'4.3.0 <hr@fresher.org>: Temporary lookup failure')}
+Email sent to Collective Artistics 
+Email sent to Hi Grey 
+Email sent to NXTWAVE 
+Email sent to We’re Hiring 
+Email sent to Roxiler Systems 
+Email sent to Not mentioned 
+Email sent to Evontech 
+Email sent to Invezza Technologies 
+Email sent to Aon 
+Email sent to ALOIS Solutions 
+Email sent to asiatechcenter 
+Daily Email limit reached
+Sent today: 13, Failed today: 1
+Run Completed Today
