@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 2201
+Email sent to Striiver Consulting 
+Email sent to TEKsystems 
+Email sent to We're Hiring 
+Email sent to Factacy.ai 
+Email sent to Striiver Consulting 
+Email sent to ZuAiTech 
+Email sent to Gurukrupa Export 
+Email sent to DigitalSherpa 
+Email sent to Techcode 
+Email sent to Globally Leading Tech Company 
+Email sent to AidasTech India Pvt Ltd. 
+Email sent to TeroTAM Techlabs Pvt. Ltd. 
+Email sent to Cygnuspro 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
