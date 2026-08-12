@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 2225
+Email sent to Galaxy.ai 
+Email sent to Falcon Informatics 
+Email sent to UpperThrust 
+Email sent to CodeBrahma 
+Email sent to Konnect Consultancy 
+Email sent to Methix (Tech) and A Jam (Music) 
+Email sent to ProBuddy Software Solutions Pvt. Ltd 
+Email sent to Codiastic Soft Pvt. Ltd. 
+Email sent to ApniBus 
+Email sent to Dhruv Research 
+Email sent to terotam 
+Email sent to Schbang 
+Email sent to NoBrokerHood 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
