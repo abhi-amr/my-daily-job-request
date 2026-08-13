@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 2237
+Email sent to NoBrokerHood 
+Email sent to Vertx 
+Email sent to 1. TeroTAM 
+Email sent to Suhora 
+Email sent to Neo-Group 
+Email sent to OyTechnology 
+Email sent to Collective Artistics 
+Email sent to Nirixense Technologies 
+Email sent to We're Hiring 
+Failed for Rising Business: {'hiring@risingbusiness.in': (451, b'4.3.0 <hiring@risingbusiness.in>: Temporary lookup failure')}
+Email sent to Paytm 
+Email sent to Faclon Labs 
+Email sent to Auzmor 
+Daily Email limit reached
+Sent today: 13, Failed today: 1
+Run Completed Today
