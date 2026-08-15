@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 2261
+Email sent to Roxiler Systems 
+Email sent to Not mentioned 
+Email sent to Evontech 
+Email sent to Invezza Technologies 
+Email sent to Aon 
+Email sent to ALOIS Solutions 
+Email sent to asiatechcenter 
+Email sent to The Roots Architecture 
+Email sent to K Girdhar Lal 
+Email sent to OneLgica 
+Email sent to OneLgica 
+Email sent to jbcopowertech 
+Email sent to ANSR 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
