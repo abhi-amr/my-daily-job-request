@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 2273
+Email sent to ANSR 
+Email sent to Not mentioned 
+Email sent to pbpartners 
+Email sent to Schneider Electric 
+Email sent to Optum 
+Email sent to DTDC Express Limited 
+Email sent to Striiver Consulting 
+Email sent to TEKsystems 
+Email sent to We're Hiring 
+Email sent to Factacy.ai 
+Email sent to Striiver Consulting 
+Email sent to ZuAiTech 
+Email sent to Gurukrupa Export 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
