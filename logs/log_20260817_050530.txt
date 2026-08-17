@@ -1,0 +1,19 @@
+Total recipients: 2571
+Resuming from row: 2285
+Email sent to Gurukrupa Export 
+Failed for DigitalSherpa: Connection unexpectedly closed: The read operation timed out
+SMTP connection lost, reconnecting...
+Email sent to Techcode 
+Email sent to Globally Leading Tech Company 
+Email sent to AidasTech India Pvt Ltd. 
+Email sent to TeroTAM Techlabs Pvt. Ltd. 
+Email sent to Cygnuspro 
+Email sent to CARS24 
+Email sent to We're Hiring 
+Email sent to Codiastic Soft Pvt. Ltd. 
+Email sent to Nobroker 
+Email sent to Proton 
+Email sent to CollegePur 
+Daily Email limit reached
+Sent today: 13, Failed today: 1
+Run Completed Today
