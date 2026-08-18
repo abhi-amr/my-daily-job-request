@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 2297
+Email sent to CollegePur 
+Email sent to We’re Hiring! 
+Email sent to Redcliffe Labs 
+Email sent to NIIT 
+Email sent to SharkStriker Inc 
+Email sent to Galaxy.ai 
+Email sent to Galaxy.ai 
+Email sent to Falcon Informatics 
+Email sent to UpperThrust 
+Email sent to CodeBrahma 
+Email sent to Konnect Consultancy 
+Email sent to Methix (Tech) and A Jam (Music) 
+Email sent to ProBuddy Software Solutions Pvt. Ltd 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
