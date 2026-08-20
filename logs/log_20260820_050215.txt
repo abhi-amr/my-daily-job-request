@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 2321
+Email sent to Not mentioned 
+Email sent to Mixdorm 
+Email sent to ShyftLabs 
+Email sent to IDS Infotech Ltd. 
+Email sent to Decentro, Cnear (Previously Yoursthatsenior) 
+Email sent to Tecnoprism 
+Email sent to Amplelogic 
+Email sent to Databridge Market Research 
+Email sent to Eulermotors 
+Email sent to vTech Solution India 
+Email sent to eclf 
+Email sent to AAPMOR Technologies 
+Email sent to 6Months 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
