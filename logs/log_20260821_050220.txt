@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 2333
+Email sent to 6Months 
+Email sent to Softeon 
+Email sent to DS 
+Email sent to Zomato 
+Email sent to Zepto 
+Email sent to AdvantageClub.ai 
+Email sent to PeopleApps Technologies 
+Email sent to Smart10X 
+Email sent to The Recruitment Council (TRC) 
+Email sent to Sneakare 
+Email sent to We’re Hiring 
+Email sent to MSITEK 
+Email sent to AveToConsulting 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
