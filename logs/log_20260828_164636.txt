@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 2417
+Email sent to iCapotech Pvt Ltd 
+Email sent to Ollosoft Technologies Pvt. Ltd. 
+Email sent to Db4Cloud Technologies 
+Email sent to Times Internet Limited 
+Email sent to Engineer Philosophy Web Services Pvt. Ltd. 
+Email sent to Techlusion 
+Email sent to Confidential 
+Email sent to Infutrix Technologies 
+Email sent to Surepass Technologies 
+Email sent to Gritty Tech 
+Email sent to Krishi Vikas 
+Email sent to Cloud Zappy 
+Email sent to LogicLadder 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
