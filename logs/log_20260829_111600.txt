@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 2429
+Email sent to LogicLadder 
+Email sent to Uptop 
+Email sent to Not mentioned 
+Email sent to NextNation 
+Email sent to Altre Digital Private Limited 
+Email sent to Vumonic Datalabs 
+Email sent to Engineer Philosophy Web Services Pvt. Ltd. 
+Email sent to Lithion Power 
+Email sent to Deep Cognition 
+Email sent to TechBridge 
+Email sent to GoQuest Media 
+Email sent to Speakdesk 
+Email sent to Grant Thornton Bharat LLP 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
