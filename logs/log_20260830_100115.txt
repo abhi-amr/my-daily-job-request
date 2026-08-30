@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 2441
+Email sent to Grant Thornton Bharat LLP 
+Email sent to Skilledx 
+Email sent to Qispine 
+Email sent to MacGence 
+Email sent to Akalp Techno Media Solutions 
+Email sent to Finix Consulting 
+Email sent to Red Cliffe Labs 
+Email sent to Innonsh Technologies Pvt Ltd. 
+Email sent to Santa Browser 
+Email sent to doodleblue 
+Email sent to Sparxit 
+Email sent to Yeppar 
+Email sent to 4th Pointer 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
