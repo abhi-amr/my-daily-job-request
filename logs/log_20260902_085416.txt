@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 2477
+Email sent to JetSmart IT Services 
+Email sent to Talentrise Technorate 
+Email sent to Atzean Technologies 
+Email sent to Medoc Health 
+Email sent to OAJS Advertisement 
+Email sent to Redcliffelabs 
+Email sent to Talentrise Technorate 
+Email sent to CC 
+Email sent to Baner, Pune 
+Email sent to Db4Cloud Technologies 
+Email sent to Skill Probe 
+Email sent to Cloud Motiv Global 
+Email sent to MyOperator 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
