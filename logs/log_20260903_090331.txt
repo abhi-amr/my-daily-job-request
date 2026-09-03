@@ -1,0 +1,18 @@
+Total recipients: 2571
+Resuming from row: 2489
+Email sent to MyOperator 
+Email sent to JetSmart IT Services 
+Email sent to Talentrise Technorate 
+Email sent to Atzean Technologies 
+Email sent to Medoc Health 
+Email sent to OAJS Advertisement 
+Email sent to Snap-E Cabs 
+Email sent to 4th Pointer 
+Email sent to Zoca 
+Email sent to Chervic 
+Email sent to RecurX 
+Email sent to The RR Group 
+Email sent to Doodle Blue 
+Daily Email limit reached
+Sent today: 13, Failed today: 0
+Run Completed Today
