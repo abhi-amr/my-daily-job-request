@@ -1,0 +1,5 @@
+Total recipients: 2571
+Resuming from row: 2571
+Email sent to LiLO 
+Sent today: 1, Failed today: 0
+Run Completed Today
